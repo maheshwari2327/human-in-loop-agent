@@ -1,0 +1,11 @@
+To: priya@example.com
+Subject: Regarding: Ask Priya to move tomorrow's meeting to 3pm
+Body:
+Dear Priya,
+
+I hope you're doing well. I wanted to touch base with you regarding tomorrow's meeting. Would it be possible to reschedule it to 3pm instead of the original time? I'd greatly appreciate it. Let me know if this new time works for you.
+
+Best regards,
+Vamsi
+----------------------------------------
+
